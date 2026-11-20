@@ -1,0 +1,23 @@
+{
+ "name": "진짜 우리 WOW를 찾아라!",
+ "short_name": "진짜 우리 WOW",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#F7F1F1",
+ "theme_color": "#DBDEE2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
